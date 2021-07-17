@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="title">Convert Yen-Dollar</string>
+    <string name="txtHint">Currency Amount to Convert</string>
+    <string name="txtYenToDlr">Convert Yen to Dollars</string>
+    <string name="txtDlrToYen">Convert Dollars to Yen</string>
+    <string name="txtButton">Convert Currency</string>
+</resources>
